@@ -8,6 +8,7 @@
     "preview": "vite preview",
     "deploy": "yarn build && npx thirdweb@latest upload dist"
   },
+  "homepage": "https://KaranKulshrestha.github.io/Rekindle",
   "dependencies": {
     "@thirdweb-dev/react": "^3",
     "@thirdweb-dev/sdk": "^3",
@@ -21,6 +22,7 @@
     "@vitejs/plugin-react": "^2",
     "autoprefixer": "^10.4.13",
     "file-loader": "^6.2.0",
+    "gh-pages": "^4.0.0",
     "postcss": "^8.4.20",
     "tailwindcss": "^3.2.4",
     "vite": "^3"
